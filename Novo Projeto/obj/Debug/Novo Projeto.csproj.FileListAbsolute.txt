@@ -1,0 +1,181 @@
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\ApplicationInsights.config
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\csc.exe
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\vbc.exe
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll.config
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.pdb
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.xml
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.csprojResolveAssemblyReference.cache
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.dll
+C:\Users\saofafon\Documents\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.pdb
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\ApplicationInsights.config
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\csc.exe
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\vbc.exe
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll.config
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.pdb
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.pdb
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Core.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.PlatformServices.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Translate.v2.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Zlib.Portable.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Core.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Translate.v2.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Zlib.Portable.xml
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.Net20.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\ApplicationInsights.config
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\csc.exe
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\vbc.exe
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll.config
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.pdb
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Core.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.PlatformServices.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Translate.v2.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.Net20.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Skytells.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Zlib.Portable.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Core.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Translate.v2.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.Net20.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Zlib.Portable.xml
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.pdb
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Fellipe\Desktop\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\ApplicationInsights.config
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\csc.exe
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\vbc.exe
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll.config
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Novo Projeto.pdb
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Core.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.PlatformServices.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Translate.v2.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.Net20.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Skytells.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Zlib.Portable.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Core.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Translate.v2.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.Web.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Newtonsoft.Json.Net20.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Zlib.Portable.xml
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.csprojResolveAssemblyReference.cache
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.dll
+C:\Users\saofafon\Music\Tcc\Projeto_Natural\Novo Projeto\Novo Projeto\obj\Debug\Novo Projeto.pdb
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Fellipe\Desktop\Projeto_Natural\Novo Projeto\Novo Projeto\bin\Google.Apis.Auth.xml
